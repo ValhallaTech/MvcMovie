@@ -28,7 +28,7 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Razor" Version="3.1.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="&gt;=3.1.9" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.9" />
-    <PackageReference Include="System.Text.Encodings.Web" Version="4.7.1" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="4.7.2" />
   </ItemGroup>
 
 </Project>
